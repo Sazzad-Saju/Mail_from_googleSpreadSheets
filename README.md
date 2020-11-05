@@ -9,4 +9,5 @@ In the case of mass mailing, using Gmail's Cc Bcc is a bad practice. That can se
 - Google allows 100 emails a day per Gmail A/C
 - Use multiple A/C to send if you have more than 100 mails
 - Format spreadsheet just like the MassMail.xlsx or change the code to work for you
+- Google block this unrecognized app while running for the first time, give it permission
 
