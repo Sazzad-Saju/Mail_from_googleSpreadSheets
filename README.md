@@ -14,16 +14,16 @@ In the case of mass mailing, using Gmail's Cc Bcc is a bad practice. That can se
 # Screenshots
 **List Sheet**
 
-<img src = "images/massmail1.png" > 
+<img src="Images/massmail1.png" > 
 
 **Mail Sheet**
 
-<img src = "images/massmail2.png" > 
+<img src="Images/massmail2.png" > 
 
 **Run sendNow() function to execute**
 
-<img src = "images/massmail3.png" >
+<img src="Images/massmail3.png" >
 
 **Result**
 
-<img src = "images/massmail3.png" > 
+<img src="Images/massmail4.png" > 
