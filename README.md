@@ -22,7 +22,7 @@ In the case of mass mailing, using Gmail's Cc Bcc is a bad practice. That can se
 
 **Run sendNow() function to execute**
 
-<img src="Images/massmail3.png" >
+<img src="Images/massmail3.png" width = "550" > 
 
 **Result**
 
