@@ -11,3 +11,19 @@ In the case of mass mailing, using Gmail's Cc Bcc is a bad practice. That can se
 - Format spreadsheet like the MassMail.xlsx or change the code to work for you
 - Google block this unrecognized app while running for the first time, give it access
 
+# Screenshots
+**List Sheet**
+
+<img src = "images/massmail1.png" > 
+
+**Mail Sheet**
+
+<img src = "images/massmail2.png" > 
+
+**Run sendNow() function to execute**
+
+<img src = "images/massmail3.png" >
+
+**Result**
+
+<img src = "images/massmail3.png" > 
