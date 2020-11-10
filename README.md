@@ -27,3 +27,7 @@ In the case of mass mailing, using Gmail's Cc Bcc is a bad practice. That can se
 **Result**
 
 <img src="Images/massmail4.png" > 
+
+**Exposing email addresses in Gmail's Cc Bcc practice**
+
+<image src="Images/massmail5.png" >
