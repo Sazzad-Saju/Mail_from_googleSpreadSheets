@@ -1,3 +1,7 @@
+/*Sending Mail From Google SpreadSheet
+This code wouldn't mention receiver's names in emails, 
+"List" sheet just needed all of the collection of email addresses
+Code by Sazzad Saju, CSE, HSTU*/
 
 function OpenSheet(name){
   var ss = SpreadsheetApp.getActiveSpreadsheet();  //get spreadsheet
